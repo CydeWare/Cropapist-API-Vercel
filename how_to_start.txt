@@ -1,0 +1,9 @@
+Write this in terminal with folder containing the Python (api.py):
+
+cd "C:\Users\Owner\Creative Cloud Files\Binus\Artificial Intelligence\AOL\Code\Web Application"
+or
+cd "Web Application"
+
+uvicorn api:app --reload --host 0.0.0.0 --port 8000
+
+Then, run the index.html using Run and Debug or something else.
